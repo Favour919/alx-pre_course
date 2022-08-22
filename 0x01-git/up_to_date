@@ -37,3 +37,4 @@ git add .
 git add <filename>
 git add --all
 touch up_to_date
+git add
