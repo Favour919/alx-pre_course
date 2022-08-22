@@ -35,3 +35,4 @@ git add <filename>
 git add up_to_date
 git add .
 git add <filename>
+git add --all
